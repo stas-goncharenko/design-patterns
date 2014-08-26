@@ -15,7 +15,7 @@ class Settings {
 	private static $_instance = null;
 
 	private function __construct() {
-	    // приватный конструктор ограничивает реализацию 		    getInstance ()
+	    // приватный конструктор ограничивает реализацию getInstance ()
 	}
 
 	protected function __clone() {
